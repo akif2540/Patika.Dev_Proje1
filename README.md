@@ -1,7 +1,7 @@
 # Patika.Dev_Proje1
 VeriYapilariVeAlgoritmalarProje1
 
-www.patika.dev
+https://app.patika.dev/dadasoglu
 
 **[22,27,16,2,18,6] -> Insertion Sort**
 
