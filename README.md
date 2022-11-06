@@ -1,0 +1,2 @@
+# Patika.Dev_Proje1
+VeriYapilariVeAlgoritmalarProje1
